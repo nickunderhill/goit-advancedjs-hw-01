@@ -4,9 +4,10 @@
 
 .nav-list {
   display: flex;
+  flex-direction: row;
   align-items: center;
-  justify-content: flex-end;
-  gap: 40px;
+  justify-content: center;
+  gap: 20px;
 }
 
 .nav-link {
