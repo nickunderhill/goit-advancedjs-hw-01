@@ -1,0 +1,2 @@
+import"./assets/styles-b291ab8d.js";import{P as n,t as a}from"./assets/vendor-1e54b975.js";const c=document.querySelector("iframe"),o=new n(c),r="videoplayer-current-time";o.on("timeupdate",a(function(e){localStorage.setItem(r,e.seconds)},1e3));const t=localStorage.getItem(r);t&&o.setCurrentTime(parseFloat(t)).catch(function(e){console.error("Can not set current time:",e)});
+//# sourceMappingURL=commonHelpers2.js.map
