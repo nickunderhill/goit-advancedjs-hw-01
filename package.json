@@ -12,7 +12,7 @@
     "glob": "^8.1.0",
     "vite": "^4.5.2"
   },
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Mykola Podopryhora <m.podopryhora@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "@vimeo/player": "^2.23.0",
